@@ -2,15 +2,17 @@
 
 ## Hi, I'm Sebastian Șoptelea.
 I'm a second-year Computer Science student at **Babeș-Bolyai University** in **Cluj-Napoca, Romania**, and currently ranked among the top of my faculty with a GPA of **9.70**/10.
-
+<hr>
 <details>
   <summary>📖 About Me</summary>
   
   I’m a problem-solver who enjoys tackling complex coding challenges and building software solutions. I’m particularly passionate about AI/ML and love working on full-stack development projects. My goal is to continue focusing on AI/ML and full-stack development, while continually learning new technologies and methodologies to create efficient, scalable applications across all layers of development, from backend to frontend.
+<hr>
 </details>
 
 <details>
   <summary>🔧 Skills & Technologies</summary>
+
 
 - **Languages**: C#, Java, Python, C, C++, SQL, Haskell, TypeScript, JavaScript, HTML, CSS, NASM Assembly
 - **Frameworks & Libraries**: Next.js, React, WinUI, .NET, Windows Forms, Swing, Pygame, BenchmarkDotNet
@@ -20,6 +22,7 @@ I'm a second-year Computer Science student at **Babeș-Bolyai University** in **
 - **AI/ML**: Artificial Intelligence, Machine Learning, Evolutionary Algorithms
 - **Testing**: JUnit (Java), xUnit (C#), Unittest (Python), Manual testing in C and C++ using custom functions
 - **Interests**: Full-stack Development, Systems Design, AI/ML, Software Engineering
+<hr>
 </details>
 
 <details>
@@ -32,6 +35,7 @@ Currently focusing on building its **frontend**, while learning to make full use
 ### [Amenintarea Maimutei](https://github.com/dosqas/UBB-SE-2025-AmenintareaMaimutei)  
 Part of a **Hospital Management System** developed as a team project for the **Software Engineering course**. Built with **C#** and **.NET (WinUI)**.  
 This project is greatly helping me learn to **work in a team environment** and improve collaboration skills.
+<hr>
 </details>
 
 <details>
@@ -48,6 +52,7 @@ I really enjoyed **developing my own textures** for the game. It also required m
 ### [Planes-Game](https://github.com/dosqas/Planes-Game)  
 Implementation of the **Planes** game. Built in **Python** with **Pygame**, featuring a custom **smart AI algorithm**.  
 I thoroughly enjoyed developing my own **smart AI algorithm** for the computer after studying papers on the AI algorithm based on **probability density functions** used for the **Battleships game**.
+<hr>
 </details>
 
 <details>
@@ -60,6 +65,7 @@ A repository of **past projects and assignments** completed for university cours
 - **Software Engineering**: Focuses on teamwork and full-stack development (the project is available in the [Amenintarea Maimutei](https://github.com/dosqas/UBB-SE-2025-AmenintareaMaimutei) repository).
 - **Systems for Design and Implementation**: Involves developing a full-stack app by myself using **Next.js**, **TypeScript**, and **PostgreSQL** (check out the project in the [dosq.fm](https://github.com/dosqas/dosq.fm) repository).
 - **Artificial Intelligence**: Introduces the basics of **AI**.
+<hr>
 </details>
 
 <details>
@@ -69,6 +75,7 @@ A repository of **past projects and assignments** completed for university cours
 - [Uni-Projects](https://github.com/dosqas/Uni-Projects) 
 - [SpaceDefender](https://github.com/dosqas/SpaceDefender) 
 - [Amenintarea Maimutei](https://github.com/dosqas/UBB-SE-2025-AmenintareaMaimutei)
+<hr>
 </details>
 
 <details>
@@ -76,6 +83,7 @@ A repository of **past projects and assignments** completed for university cours
   
 - I'm very passionate about listening to music and tracking how my tastes evolve over time, and I enjoy exploring vastly different genres, including **hip-hop**, **metal**, **ambient**, and **pop**.
 - I also have a deep love for photography, especially shooting in black and white with a focus on capturing the architecture of buildings and their symmetry wherever I go.
+<hr>
 </details>
 
 <details>

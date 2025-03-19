@@ -13,15 +13,64 @@ I'm a second-year Computer Science student at **Babeș-Bolyai University** in **
 <details>
   <summary>🔧 Skills & Technologies</summary>
 
+### Languages  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat&logo=haskell&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![NASM](https://img.shields.io/badge/NASM-00599C?style=flat&logo=assembly&logoColor=white)
 
-- **Languages**: C#, Java, Python, C, C++, SQL, Haskell, TypeScript, JavaScript, HTML, CSS, NASM Assembly
-- **Frameworks & Libraries**: Next.js, React, WinUI, .NET, Windows Forms, Swing, Pygame, BenchmarkDotNet
-- **Databases**: PostgreSQL, SQL Server (SSMS)
-- **Tools**: Git, Maven
-- **Concepts**: Object-Oriented Programming (OOP), Data Structures & Algorithms, Software Design Patterns, Multithreading and Processes, Networking, Operating Systems (Unix CLI & Bash Scripting, Windows Environments), Regex
-- **AI/ML**: Artificial Intelligence, Machine Learning, Evolutionary Algorithms
-- **Testing**: JUnit (Java), xUnit (C#), Unittest (Python), Manual testing in C and C++ using custom functions
-- **Interests**: Full-stack Development, Systems Design, AI/ML, Software Engineering
+### Frameworks & Libraries  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![WinUI](https://img.shields.io/badge/WinUI-0078D7?style=flat&logo=windows&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Windows Forms](https://img.shields.io/badge/Windows_Forms-0078D7?style=flat&logo=windows&logoColor=white)
+![Swing](https://img.shields.io/badge/Swing-007396?style=flat&logo=java&logoColor=white)
+![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=flat&logo=python&logoColor=white)
+![BenchmarkDotNet](https://img.shields.io/badge/BenchmarkDotNet-239120?style=flat&logo=c-sharp&logoColor=white)
+
+### Databases  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+
+### Tools  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white)
+
+### Concepts  
+🔹 **Object-Oriented Programming (OOP)**  
+🔹 **Data Structures & Algorithms**  
+🔹 **Software Design Patterns**  
+🔹 **Multithreading and Processes**  
+🔹 **Networking**  
+🔹 **Operating Systems (Unix CLI & Bash Scripting, Windows Environments)**  
+🔹 **Regex**
+
+### AI/ML  
+![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=flat&logo=ai&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-0277BD?style=flat&logo=tensorflow&logoColor=white)
+![Evolutionary Algorithms](https://img.shields.io/badge/Evolutionary_Algorithms-FF5722?style=flat&logo=algorithms&logoColor=white)
+
+### Testing  
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)
+![xUnit](https://img.shields.io/badge/xUnit-E34F26?style=flat&logo=dotnet&logoColor=white)
+![Unittest](https://img.shields.io/badge/Unittest-3776AB?style=flat&logo=python&logoColor=white)
+🛠 **Manual testing in C and C++ using custom functions**
+
+### Interests  
+🔹 **Full-stack Development**  
+🔹 **Systems Design**  
+🔹 **AI/ML**  
+🔹 **Software Engineering**  
+
 <hr>
 </details>
 
@@ -70,11 +119,12 @@ A repository of **past projects and assignments** completed for university cours
 
 <details>
   <summary>📌 Pinned Repositories</summary>
+Feel free to check out some of my pinned repositories for a deeper dive into my projects.
 
-- [dosq.fm](https://github.com/dosqas/dosq.fm) 
-- [Uni-Projects](https://github.com/dosqas/Uni-Projects) 
-- [SpaceDefender](https://github.com/dosqas/SpaceDefender) 
+- [dosq.fm](https://github.com/dosqas/dosq.fm)
 - [Amenintarea Maimutei](https://github.com/dosqas/UBB-SE-2025-AmenintareaMaimutei)
+- [SpaceDefender](https://github.com/dosqas/SpaceDefender) 
+- [Uni-Projects](https://github.com/dosqas/Uni-Projects) 
 <hr>
 </details>
 

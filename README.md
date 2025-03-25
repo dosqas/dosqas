@@ -81,14 +81,15 @@ I'm a second-year Computer Science student at **Babeș-Bolyai University** in **
 A **Spotify listening history tracker** with statistics and insights. Built with **Next.js (TypeScript)** and **PostgreSQL**.  
 Currently focusing on building its **frontend**, while learning to make full use of **Next.js** along the way.
 
-### [Amenintarea Maimutei](https://github.com/dosqas/UBB-SE-2025-AmenintareaMaimutei)  
-Part of a **Hospital Management System** developed as a team project for the **Software Engineering course**. Built with **C#** and **.NET (WinUI)**.  
-This project is greatly helping me learn to **work in a team environment** and improve collaboration skills.
 <hr>
 </details>
 
 <details>
   <summary>📁 Past Projects</summary>
+
+### [Amenintarea Maimutei](https://github.com/dosqas/UBB-SE-2025-AmenintareaMaimutei)  
+This project is part of a **Hospital Management System** developed as a team project for the **Software Engineering course**. It is built using **.NET C#** with **(WinUI)** for the frontend and **SQL Server** for the database.  
+Working on this project has significantly helped me improve my **team collaboration** and **problem-solving skills** in a group setting.
 
 ### [SpaceDefender](https://github.com/dosqas/SpaceDefender)  
 A wave-based variation of the 80s game **Space Defender**. Developed in **.NET C#** with **Windows Forms**.  

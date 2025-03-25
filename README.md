@@ -88,7 +88,7 @@ Currently focusing on building its **frontend**, while learning to make full use
   <summary>📁 Past Projects</summary>
 
 ### [Amenintarea Maimutei](https://github.com/dosqas/UBB-SE-2025-AmenintareaMaimutei)  
-This project is part of a **Hospital Management System** developed as a team project for the **Software Engineering course**. It is built using **.NET C#** with **(WinUI)** for the frontend and **SQL Server** for the database.  
+This project is part of a **Hospital Management System** developed as a team project for the **Software Engineering course**. It is built using **.NET C#** with **WinUI** for the frontend and **SQL Server** for the database.  
 Working on this project has significantly helped me improve my **team collaboration** and **problem-solving skills** in a group setting.
 
 ### [SpaceDefender](https://github.com/dosqas/SpaceDefender)  

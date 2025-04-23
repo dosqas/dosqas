@@ -81,23 +81,30 @@ I'm a second-year Computer Science student at **Babeș-Bolyai University** in **
 A **Spotify listening history tracker** with statistics and insights. Built with **Next.js (TypeScript)**, **Express.js (TypeScript)** and **PostgreSQL**.  
 Currently focusing on database integration, while learning to make full use of **PostgreSQL** along the way.
 
+### [R2P-Quantum-Qiskit-Exploration](https://github.com/dosqas/R2P-Quantum-Qiskit-Exploration)  
+A hands-on quantum computing journey using Qiskit, developed through the **IBM Road to Practitioner (R2P)** program.  
+Explores foundational quantum concepts, circuit transpilation, and backend execution.  
+Built in **Python** with **Qiskit** in **Jupyter notebooks** as part of a structured learning experience.
+
+### [UBB-SE-2025-927-1](https://github.com/vodaioan03/UBB-SE-2025-927-1)  
+**Duolingo for Other Things**, developed as a team project for the **Software Engineering course** by **subgroup 927/1**.  
+Built with **C#** and **.NET (WinUI)**, using **SQL Server** for database management.  
+Initially developed by group 923/2 and now continued by our subgroup.
+
 <hr>
 </details>
 
 <details>
   <summary>📁 Past Projects</summary>
 
-### [Amenintarea Maimutei](https://github.com/dosqas/UBB-SE-2025-AmenintareaMaimutei)  
-This project is part of a **Hospital Management System** developed as a team project for the **Software Engineering course**. It is built using **.NET C#** with **WinUI** for the frontend and **SQL Server** for the database.  
-Working on this project has significantly helped me improve my **team collaboration** and **problem-solving skills** in a group setting.
+### [Realtime-Entity-Classifier](https://github.com/dosqas/Realtime-Entity-Classifier)  
+A real-time entity classification system that detects and classifies **people** and **pets** in video streams.  
+Built with an enhanced **MobileNetV2** and **MobileNetV3 segmentation**, optimized for real-time performance on consumer hardware.  
+Developed in **Python** with **PyTorch** in **Jupyter notebooks** for the **Artificial Intelligence course**.
 
 ### [SpaceDefender](https://github.com/dosqas/SpaceDefender)  
 A wave-based variation of the 80s game **Space Defender**. Developed in **.NET C#** with **Windows Forms**.  
 This project helped me learn **Windows Forms** and made me more comfortable with **C# .NET**. It was a great learning exercise, as it pushed me out of my comfort zone, requiring me to handle challenges like **collision detection**.
-
-### [Minesweeper](https://github.com/dosqas/Minesweeper)  
-A custom variation of **Minesweeper**. Developed in **Java** with **Swing**.  
-I really enjoyed **developing my own textures** for the game. It also required me to debug a lot due to some **concurrency issues** since it’s multithreaded, but in the end, I enjoyed the challenge.
 
 ### [Planes-Game](https://github.com/dosqas/Planes-Game)  
 Implementation of the **Planes** game. Built in **Python** with **Pygame**, featuring a custom **smart AI algorithm**.  

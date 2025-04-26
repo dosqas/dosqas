@@ -86,9 +86,9 @@ A hands-on quantum computing journey using Qiskit, developed through the **IBM R
 Explores foundational quantum concepts, circuit transpilation, and backend execution.  
 Built in **Python** with **Qiskit** in **Jupyter notebooks** as part of a structured learning experience.
 
-### [UBB-SE-2025-927-1](https://github.com/vodaioan03/UBB-SE-2025-927-1)  
+### [UBB-SE-2025-927-1](https://github.com/dosqas/UBB-SE-2025-927-1)  
 **Duolingo for Other Things**, developed as a team project for the **Software Engineering course** by **subgroup 927/1**.  
-Built with **C#** and **.NET (WinUI)**, using **SQL Server** for database management.  
+Built with **C# and .NET (WinUI)**, using **Entity Framework Core** for database management with a **SQL Server** database.
 Initially developed by group 923/2 and now continued by our subgroup.
 
 <hr>

@@ -78,7 +78,7 @@ I'm a second-year Computer Science student at **Babeș-Bolyai University** in **
   <summary>🛠️ Current Projects</summary>
 
 ### [dosq.fm](https://github.com/dosqas/dosq.fm)  
-A **Spotify listening history tracker** with statistics and insights. Built with **Next.js (TypeScript)**, **Express.js (TypeScript)** and **PostgreSQL**.  
+A **Spotify listening history tracker** with statistics and insights. Built with **Next.js (TypeScript)**, **ASP .NET Core** and **PostgreSQL**.  
 Currently focusing on database integration, while learning to make full use of **PostgreSQL** along the way.
 
 ### [R2P-Quantum-Qiskit-Exploration](https://github.com/dosqas/R2P-Quantum-Qiskit-Exploration)  

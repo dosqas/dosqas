@@ -32,6 +32,8 @@ I'm a second-year Computer Science student at **Babeș-Bolyai University** in **
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![WinUI](https://img.shields.io/badge/WinUI-0078D7?style=flat&logo=windows&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat\&logo=dotnet\&logoColor=white)
+![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=flat\&logo=dotnet\&logoColor=white)
 ![Windows Forms](https://img.shields.io/badge/Windows_Forms-0078D7?style=flat&logo=windows&logoColor=white)
 ![Swing](https://img.shields.io/badge/Swing-007396?style=flat&logo=java&logoColor=white)
 ![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=flat&logo=python&logoColor=white)

@@ -175,4 +175,4 @@ Feel free to check out some of my pinned repositories for a deeper dive into my 
 
 Feel free to check out my repositories for more projects and contributions!
 
-⭐️ **Thanks for visiting my profile!**
+⭐️ **Keep exploring!**

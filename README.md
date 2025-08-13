@@ -1,7 +1,7 @@
 # Welcome to my GitHub profile 👋
 
 ## Hi, I'm Sebastian Șoptelea.
-I'm a second-year Computer Science student at **Babeș-Bolyai University (BBU)** in **Cluj-Napoca, Romania**, and currently ranked among the top of my faculty with a GPA of **9.78**/10.
+I'm a final-year Computer Science student at **Babeș-Bolyai University (BBU)** in **Cluj-Napoca, Romania**, and currently ranked among the top of my faculty with a GPA of **9.78**/10.
 
 <hr>
 <details>

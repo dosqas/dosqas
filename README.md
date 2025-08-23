@@ -116,14 +116,14 @@ Currently not actively working on projects, but soon planning to start my **bach
 <details>
   <summary>📁 Past Projects</summary>
 
-### [🎶 Spotify Likes to Last.fm](https://github.com/dosqas/spotify-likes-to-lastfm)  
+### [🎶 Spotify Likes to Last.fm](https://github.com/dosqas/spotify-likes-to-lastfm)  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 Python script that transfers your liked songs on **Spotify** to **Last.fm** as “loved” tracks. I originally **forked this project** while searching for a tool like this, unsure if one even existed. I loved it so much that I made improvements to enhance its functionality. As someone passionate about **statistics and music**, I really enjoy using **Last.fm**, and this project combines both my interests perfectly.
 
-### [👾 SpaceDefender](https://github.com/dosqas/spacedefender)  
+### [👾 SpaceDefender](https://github.com/dosqas/spacedefender)  ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)  ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)  ![Windows Forms](https://img.shields.io/badge/Windows_Forms-0078D7?style=flat&logo=windows&logoColor=white)
 A wave-based variation of the 80s game **Space Defender**. Developed in **.NET C#** with **Windows Forms**.  
 This project helped me learn **Windows Forms** and made me more comfortable with **C# .NET**. It was a great learning exercise, as it pushed me out of my comfort zone, requiring me to handle challenges like **collision detection**.
 
-### [✈️ Planes](https://github.com/dosqas/planes)  
+### [✈️ Planes](https://github.com/dosqas/planes)  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  ![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=flat&logo=python&logoColor=white)
 Implementation of the **Planes** game. Built in **Python** with **Pygame**, featuring a custom **smart AI algorithm**.  
 I thoroughly enjoyed developing my own **smart AI algorithm** for the computer after studying papers on the AI algorithm based on **probability density functions** used for the **Battleships game**.
 <hr>
@@ -147,9 +147,9 @@ A repository of **past projects and assignments** completed for university cours
   <summary>📌 Pinned Repositories</summary>
 Feel free to check out some of my pinned repositories for a deeper dive into my projects.
 
-- [🐱 Realtime Entity Classifier](https://github.com/dosqas/realtime-entity-classifier)
-- [⛏️ Minesweeper](https://github.com/dosqas/minesweeper)
-- [❤️ Heart Disease Prediction VQC](https://github.com/dosqas/vqc-heart-disease-prediction) 
+- [🐱 Realtime Entity Classifier](https://github.com/dosqas/realtime-entity-classifier)  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)  ![MobileNet](https://img.shields.io/badge/MobileNet-4285F4?style=flat&logo=google&logoColor=white)
+- [⛏️ Minesweeper](https://github.com/dosqas/minesweeper)  ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  ![Swing](https://img.shields.io/badge/Swing-007396?style=flat&logo=java&logoColor=white)
+- [❤️ Heart Disease Prediction VQC](https://github.com/dosqas/vqc-heart-disease-prediction)  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)  ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat&logo=qiskit&logoColor=white)
 - [📚 University Projects](https://github.com/dosqas/bbu-cuni-uni-projects)
 
 <hr>

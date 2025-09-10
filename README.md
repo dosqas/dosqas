@@ -9,7 +9,7 @@ I'm a final-year Computer Science student at **Babeș-Bolyai University (BBU)** 
   
   I’m a problem-solver passionate about **AI/ML, full-stack development, and quantum computing**. As a **final-year student**, I aim to pursue a **master’s in quantum computing or AI**, and eventually a **PhD**. I enjoy tackling complex coding challenges, building **efficient and scalable applications** across **backend and frontend**, and **learning new technologies**. I’m also open to **collaborating on interesting projects**.
 
-  I am part of the **Centre for the Study of Complexity at BBU**, a research group focused on complex systems and optimization in AI/ML and increasingly in quantum computing. 
+  I am part of the **Centre for the Study of Complexity at BBU**, a research group focused on complex systems and optimization in AI/ML and increasingly in quantum computing. I am also a **Qiskit Advocate**, contributing to the global quantum computing community and promoting the adoption of quantum programming. 
 <hr>
 </details>
 
